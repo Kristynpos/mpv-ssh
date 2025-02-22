@@ -4,7 +4,7 @@ VERSION="0.0.1"
 
 usage() {
 	echo "mpv-ssh version $VERSION copyright © 2021 cloud11665"
-	echo "  https://github.com/cloud11665/mpv-ssh"
+	echo "  https://github.com/Kristynpos/mpv-ssh"
 	echo ""
 	echo "Dependency versions:"
 	echo "  mpv version: $(mpv --version | head -n1 | awk '{print $2}')"
